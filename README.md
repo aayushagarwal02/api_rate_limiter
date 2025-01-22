@@ -1,5 +1,7 @@
 # 🚀 API Rate Limiter Middleware
 
+## Express.js API Rate Limiter with Redis (Sliding Window Algorithm)
+
 🎉 Welcome to the **API Rate Limiter Middleware**! This project implements a sliding window rate limiter using **Redis**. The middleware ensures fair usage of your API endpoints by limiting the number of requests a client can make within a specified time period.
 
 ---
